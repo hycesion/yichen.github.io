@@ -34,3 +34,11 @@ li{display: inline;
 .present a{
 	border-bottom: 1px solid #333;
 }
+footer{
+	margin: 40px auto;
+	text-align: center;
+	font-size: 14px;
+	width: 500px;
+	color: #ccc;
+	font-weight: 200;😋
+}
