@@ -14,9 +14,9 @@ footer{
 .a{color: #fff;}
 
 .nav2{
-	margin-top: 70px;
+	margin-top: 80px;
     margin-left: 50px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 .ui{
 	display: inline-block;
@@ -50,19 +50,20 @@ font-size: 46px;
 	font-size: 14px;
 	color: #9f9f9f;
 	width: 300px;
+	font-weight: 200;
 }
 #navline{
 	width: 128px;
-	border-bottom: solid 7px #FF5722;
-	margin-top: -5px;
-	margin-bottom: 5px;
+	border-bottom: solid 5px #333;
+	
+	margin-bottom: 8px;
 
 }
 #navline2{
 	width: 210px;
-	border-bottom: solid 7px #FF5722;
-	margin-top: -5px;
-	margin-bottom: 5px;
+	border-bottom: solid 5px #333;
+	
+	margin-bottom: 8px;
 
 }
 .item 
@@ -98,16 +99,17 @@ font-size: 46px;
 }
 
 .button2 a{
-	font-size: 20px;
+	font-size: 16px;
 	padding-left: 0px;
 	color:  #fff; 
 	text-decoration: none;
+	font-weight: 200;
 }
 .button2 a:hover{
-	font-size: 20px;
+	font-size: 16px;
 	padding-left: 0px;
 	color:  #333; 
-	
+	font-weight: 200;
 }
 .item1{
 	width: 590px;
@@ -141,7 +143,7 @@ font-size: 46px;
 }
 .thin{
 	font-weight: 100;
-	margin-top: -10px;
+	margin-top: -4px;
 }
 .first{
 	margin-top: -6px;
@@ -156,9 +158,10 @@ font-size: 46px;
 	float: left;
 }
 .tag p{
-	padding-top: 6px;
+	padding-top: 8px;
 	font-size: 16px;
 	color: #fff;
+	font-weight: 100;
 }
 #bordera{
 	border-bottom: solid 3px #FFCC4C;
