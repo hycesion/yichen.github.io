@@ -101,15 +101,18 @@ font-size: 46px;
 .button2 a{
 	font-size: 16px;
 	padding-left: 0px;
-	color:  #fff; 
+	color:  rgba(20,20,20,0.5); 
 	text-decoration: none;
 	font-weight: 200;
+
 }
 .button2 a:hover{
 	font-size: 16px;
 	padding-left: 0px;
-	color:  #333; 
+	color: rgba(20,20,20,0.5);
 	font-weight: 200;
+	border-bottom: 1px solid rgba(20,20,20,0.5);
+
 }
 .item1{
 	width: 590px;
